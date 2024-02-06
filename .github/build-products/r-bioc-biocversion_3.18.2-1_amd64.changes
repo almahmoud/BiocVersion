@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Tue, 06 Feb 2024 20:35:22 +0000
+Source: r-bioc-biocversion
+Binary: r-bioc-biocversion
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 3.18.2-1
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Bioc GHA Build <maintainer@bioconductor.org>
+Changed-By: Bioc GHA Build <maintainer@bioconductor.org>
+Description:
+ r-bioc-biocversion - Set the appropriate version of Bioconductor packages
+Changes:
+ r-bioc-biocversion (3.18.2-1) UNRELEASED; urgency=medium
+ .
+   * Initial release (closes: #xxxxxx)
+Checksums-Sha1:
+ 5e8a741280d89f6ffa60a1387ef8ffa75e7a3341 11007 r-bioc-biocversion_3.18.2-1_amd64.buildinfo
+ fdae8379a62144bd556b4ec4aac858b214b7135c 9740 r-bioc-biocversion_3.18.2-1_amd64.deb
+Checksums-Sha256:
+ 1cba6085bf65b50b378404d375367a5efbf09e72c0310a14aeaee1a0bbdc7d99 11007 r-bioc-biocversion_3.18.2-1_amd64.buildinfo
+ 03f773eac0bc9b73fd41945485ba8debd09d1f6fb246b573fa885bb843fef0f5 9740 r-bioc-biocversion_3.18.2-1_amd64.deb
+Files:
+ 7959a1b1995f441e1832d31beb2a9519 11007 gnu-r optional r-bioc-biocversion_3.18.2-1_amd64.buildinfo
+ 49494a58fc8615b51b616b10f3e5be97 9740 gnu-r optional r-bioc-biocversion_3.18.2-1_amd64.deb
